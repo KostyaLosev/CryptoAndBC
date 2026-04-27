@@ -1,0 +1,17 @@
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "owner": "0x1D2C82bf8eD94C52Ca3Ae7C89eF2C543D0997E94",
+  "initialSupply": "1000000000000000000000000",
+  "proxyAddress": "0xc85B6667f8B92e672f0b4180C67E294277a839FF",
+  "implementationV1Address": "0x319E015eaE7CD8A13489F9e527118194e6f49417",
+  "implementationV1TxHash": "0x9d4d9c942013c413e2f85bfd017a94df3b1196e906bd14b8c375bdbaf730d6a2",
+  "proxyDeploymentTxHash": "0xa1c826b795d1cfc303b3e041be0fee30bf8399c3576da02fcf5576b2efb2a18c",
+  "mintRecipient": "0x1D2C82bf8eD94C52Ca3Ae7C89eF2C543D0997E94",
+  "transferRecipient": "0xB4cF0f0c270374eF432Cde9a18433C731D4aAd99",
+  "mintTxHash": "0xc1ff731cf433cf2c2550f492dc5cae1c4998e94fbdf719703038f6c98b5b1138",
+  "transferTxHash": "0x640168a01ccc3b4ff054b38a15bec48ee7c23eaf73de4a1c783d0eaa1e1291fc",
+  "implementationV2Address": "0xdC29d38B624b95c6cb6fE0238be0553212D7d5d8",
+  "implementationV2TxHash": "0x533a9c24c1b42120625477e9fd616125a2db4da23199e2115b281942c6216607",
+  "upgradeTxHash": "0xf45094e50ce1f09eb1d3e3a015b6f3deeea6798d36b4e88c2cd1b3a34669ec12"
+}
