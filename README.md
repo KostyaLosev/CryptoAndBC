@@ -2,11 +2,15 @@
 
 Upgradeable `KosToken` assignment using the UUPS pattern on top of `ERC1967Proxy`.
 
+This repository now also includes a constructor-configured multi-signature wallet for Ether and token transfers.
+
 ## Contracts
 
 - `contracts/KosTokenV1.sol` - initial ERC20 implementation with `mint`
 - `contracts/KosTokenProxy.sol` - proxy contract based on `ERC1967Proxy`
 - `contracts/KosTokenV2.sol` - upgraded implementation with `version()`
+- `contracts/MultiSigWallet.sol` - fixed-owner multi-sig wallet with threshold-based execution
+- `contracts/MultiSigWalletTarget.sol` - simple execution target used by tests
 
 ## Install
 
@@ -19,6 +23,19 @@ npm install
 ```bash
 npm run compile
 npm test
+```
+
+## Multi-sig wallet
+
+- Documentation and analysis: `docs/MultiSigWallet.md`
+- Deployment script: `npm run deploy:multisig`
+- Tests: `test/MultiSigWallet.ts`
+
+Required environment variables for Sepolia deployment:
+
+```dotenv
+MULTISIG_OWNERS=0xOwner1,0xOwner2,0xOwner3
+MULTISIG_CONFIRMATIONS=2
 ```
 
 ## Sepolia deployment flow
