@@ -1,0 +1,11 @@
+{
+  "name": "Forest Ranger",
+  "description": "Game character NFT from the ERC-1155 collection",
+  "image": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby/forest-ranger.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Emerald" },
+    { "display_type": "number", "trait_type": "speed", "value": 88 },
+    { "display_type": "number", "trait_type": "strength", "value": 67 },
+    { "trait_type": "rarity", "value": "epic" }
+  ]
+}

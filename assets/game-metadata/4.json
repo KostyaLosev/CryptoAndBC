@@ -1,0 +1,11 @@
+{
+  "name": "Glacier Giant",
+  "description": "Game character NFT from the ERC-1155 collection",
+  "image": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby/glacier-giant.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Ice Blue" },
+    { "display_type": "number", "trait_type": "speed", "value": 40 },
+    { "display_type": "number", "trait_type": "strength", "value": 99 },
+    { "trait_type": "rarity", "value": "legendary" }
+  ]
+}

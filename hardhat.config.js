@@ -18,7 +18,7 @@ const networks = process.env.SEPOLIA_RPC_URL
 export default defineConfig({
   plugins: [hardhatToolboxMochaEthers],
   solidity: {
-    version: "0.8.24",
+    version: "0.8.28",
   },
   networks,
 });

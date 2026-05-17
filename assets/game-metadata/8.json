@@ -1,0 +1,11 @@
+{
+  "name": "Mecha Paladin",
+  "description": "Game character NFT from the ERC-1155 collection",
+  "image": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby/mecha-paladin.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Steel" },
+    { "display_type": "number", "trait_type": "speed", "value": 65 },
+    { "display_type": "number", "trait_type": "strength", "value": 89 },
+    { "trait_type": "rarity", "value": "rare" }
+  ]
+}

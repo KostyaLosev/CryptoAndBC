@@ -1,0 +1,11 @@
+{
+  "name": "Lava Bruiser",
+  "description": "Game character NFT from the ERC-1155 collection",
+  "image": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby/lava-bruiser.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Obsidian" },
+    { "display_type": "number", "trait_type": "speed", "value": 58 },
+    { "display_type": "number", "trait_type": "strength", "value": 93 },
+    { "trait_type": "rarity", "value": "rare" }
+  ]
+}

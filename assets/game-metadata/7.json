@@ -1,0 +1,11 @@
+{
+  "name": "Shadow Hunter",
+  "description": "Game character NFT from the ERC-1155 collection",
+  "image": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby/shadow-hunter.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Black" },
+    { "display_type": "number", "trait_type": "speed", "value": 90 },
+    { "display_type": "number", "trait_type": "strength", "value": 74 },
+    { "trait_type": "rarity", "value": "epic" }
+  ]
+}

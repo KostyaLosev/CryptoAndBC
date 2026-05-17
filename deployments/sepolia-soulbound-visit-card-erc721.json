@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "owner": "0x1D2C82bf8eD94C52Ca3Ae7C89eF2C543D0997E94",
+  "collectionName": "Student Visit Card",
+  "collectionSymbol": "SVC",
+  "contractAddress": "0x0419731d4b7A22F69fa7F25e9d4da6C93f162d72",
+  "deploymentTxHash": "0xd2ef9812c455a3d4afb2b0074c9a73885254c6f7a68a787c7b9b16f86525385f"
+}
