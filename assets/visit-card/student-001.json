@@ -1,0 +1,11 @@
+ {
+    "name": "Student Visit Card #1",
+    "description": "Soulbound student visit card NFT",
+    "image": "ipfs://bafybeiaq7krhkbbpou42bb2z3jy7rkkw3kqk6x5f7x2tze74st7lmumtsi",
+    "attributes": [
+      { "trait_type": "studentName", "value": "Kanstantsin Loseu" },
+      { "trait_type": "studentID", "value": "00021478" },
+      { "trait_type": "course", "value": "Blockchain Development" },
+      { "trait_type": "year", "value": "2026" }
+    ]
+  }

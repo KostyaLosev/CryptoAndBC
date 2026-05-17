@@ -1,0 +1,11 @@
+{
+  "name": "Sand Assassin",
+  "description": "Game character NFT from the ERC-1155 collection",
+  "image": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby/sand-assassin.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Gold" },
+    { "display_type": "number", "trait_type": "speed", "value": 95 },
+    { "display_type": "number", "trait_type": "strength", "value": 63 },
+    { "trait_type": "rarity", "value": "epic" }
+  ]
+}

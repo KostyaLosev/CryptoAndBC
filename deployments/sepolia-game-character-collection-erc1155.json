@@ -1,0 +1,9 @@
+{
+  "network": "sepolia",
+  "chainId": "11155111",
+  "owner": "0x1D2C82bf8eD94C52Ca3Ae7C89eF2C543D0997E94",
+  "contractAddress": "0xB7F264F8f76C55E876Db4DaF7183fe9F43d5c0DD",
+  "metadataBaseUri": "ipfs://bafybeiby7lqnz2w44d274kzr75v5ay2vj2v7macukf3ri3tar27lryrvhi",
+  "imageBaseUri": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby",
+  "deploymentTxHash": "0xfe7d8622b9f171374f58204374e292f9a9304268068336f370212f6bb27950c1"
+}

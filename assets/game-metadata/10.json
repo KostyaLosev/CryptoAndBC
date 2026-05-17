@@ -1,0 +1,11 @@
+{
+  "name": "Solar Bard",
+  "description": "Game character NFT from the ERC-1155 collection",
+  "image": "ipfs://bafybeie7ea4zxqugka37w35xg64znwdkyzhykqqfqhealknmpautxpshby/solar-bard.png",
+  "attributes": [
+    { "trait_type": "color", "value": "Amber" },
+    { "display_type": "number", "trait_type": "speed", "value": 77 },
+    { "display_type": "number", "trait_type": "strength", "value": 68 },
+    { "trait_type": "rarity", "value": "uncommon" }
+  ]
+}
